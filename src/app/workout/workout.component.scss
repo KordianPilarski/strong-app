@@ -1,0 +1,29 @@
+* {
+  color: #d9d9d9;
+}
+
+.wrapper {
+  margin: 40px;
+  width: 100%;
+}
+
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 800px;
+}
+
+.three-dots {
+  cursor: pointer;
+}
+
+.workout-note {
+  background-color: #435061;
+  width: 80%;
+  min-height: 30px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
